@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+# vite-react
+=======
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,3 +75,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # Tailwind_basic
 >>>>>>> f564c1581431ecf1092ef6d10eaf285b92700816
+>>>>>>> 8f2cae25e3bc4d2488e2a680dd18c1de992e1ca4
